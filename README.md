@@ -3,7 +3,6 @@
 This repository provides the full implementation and dataset used in our AAAI 2026 paper:
 
 **"Urban Boundaries, Social Barriers: Multimodal Detection of Gated Communities and Their Equity Implications"**  
-by **Minwei Zhao, WEIMING ZHANG, Qiming LIU, Jiawang DU and Cai Wu **
 
 ---
 
